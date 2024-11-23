@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\ITSTEP\\c\u002B\u002B\\DZ\\Cplusplus\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85FE7536-8B03-4AA9-9AEF-EA89FCE92893}|ConsoleApplication1\\ConsoleApplication1.vcxproj|D:\\ITSTEP\\c\u002B\u002B\\DZ\\Cplusplus\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{85FE7536-8B03-4AA9-9AEF-EA89FCE92893}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A3CB4E06-5C71-42EF-8B78-1B1487946418}|ConsoleApplication1\\ConsoleApplication1.vcxproj|D:\\ITSTEP\\c\u002B\u002B\\DZ\\Cplusplus\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A3CB4E06-5C71-42EF-8B78-1B1487946418}|ConsoleApplication1\\ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -24,9 +24,9 @@
               "RelativeDocumentMoniker": "ConsoleApplication1\\ConsoleApplication1.cpp",
               "ToolTip": "D:\\ITSTEP\\c\u002B\u002B\\DZ\\Cplusplus\\ConsoleApplication1\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeToolTip": "ConsoleApplication1\\ConsoleApplication1.cpp",
-              "ViewState": "AgIAAIEAAAAAAAAAAAAAAEEAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-23T07:17:25.642Z",
+              "WhenOpened": "2024-11-23T07:52:03.937Z",
               "EditorCaption": ""
             }
           ]
